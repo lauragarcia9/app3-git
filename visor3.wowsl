@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>13</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>visor3</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>fly</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/convex/</ImageTemplate>
+            <ImageTemplateName>Convex</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>J:/DAM/2 parcial/aplicaciones/app3/wowslider.html</PublishFileName>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPath>J:/DAM/2 parcial/aplicaciones/app3</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#54acd2</TemplateColor>
+            <TemplateFont>Gurajada</TemplateFont>
+            <TemplateName>convex</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>J:/DAM/2 parcial/aplicaciones/app3/imagenes/aspnet40.jpg</url>
+                <title>aspnet40</title>
+                <filesize>131113</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/2 parcial/aplicaciones/app3/imagenes/comunicacionesyredesdecomputadora.jpg</url>
+                <title>comunicacionesyredesdecomputadora</title>
+                <filesize>19938</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/2 parcial/aplicaciones/app3/imagenes/estructuradedatos.PNG</url>
+                <title>estructuradedatos</title>
+                <filesize>328740</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/2 parcial/aplicaciones/app3/imagenes/fundamentosderedes.jpg</url>
+                <title>fundamentosderedes</title>
+                <filesize>1005392</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/2 parcial/aplicaciones/app3/imagenes/javacomoprogramar.jpg</url>
+                <title>javacomoprogramar</title>
+                <filesize>384753</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/2 parcial/aplicaciones/app3/imagenes/mantenimientoyreparaviondecomputadoras.jpg</url>
+                <title>mantenimientoyreparaviondecomputadoras</title>
+                <filesize>2583090</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/2 parcial/aplicaciones/app3/imagenes/programacionenjava.jpg</url>
+                <title>programacionenjava</title>
+                <filesize>5259</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/2 parcial/aplicaciones/app3/imagenes/redesdecomputadora.jpg</url>
+                <title>redesdecomputadora</title>
+                <filesize>10285</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/2 parcial/aplicaciones/app3/imagenes/sistemasoperativos.jpg</url>
+                <title>sistemasoperativos</title>
+                <filesize>2055481</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/2 parcial/aplicaciones/app3/imagenes/sqlserver20052.jpg</url>
+                <title>sqlserver20052</title>
+                <filesize>2455144</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/2 parcial/aplicaciones/app3/imagenes/visualc#2010.jpg</url>
+                <title>visualc#2010</title>
+                <filesize>2319950</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
